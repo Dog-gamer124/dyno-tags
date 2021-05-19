@@ -1,3 +1,1 @@
-# Dyno-Tags
-
-This repository is for storing tags from Dyno of the <https://discord.gg/minecraft> server.
+This repository is for storing tags for the discord bot Dyno in the [official Minecraft discord server](https://discord.gg/minecraft).
